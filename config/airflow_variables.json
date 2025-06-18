@@ -1,0 +1,6 @@
+{
+  "financial_api_url": "https://api.example.com/intraday",
+  "s3_staging_bucket": "financial-staging",
+  "s3_transformed_bucket": "financial-transformed",
+  "redshift_connection": "postgresql://user:pass@redshift-cluster:5439/analytics"
+}
